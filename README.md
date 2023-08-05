@@ -90,5 +90,6 @@ Explore [key Responsible AI guidelines and principles](https://learn.microsoft.c
 
 Be sure to give [feedback about this workshop](https://bit.ly/MSFT_AI_feedback)!
 
-[Code of Conduct](../CODE_OF_CONDUCT.md)
+[Code of Conduct](https://github.com/Shunlexxi/INTRODUCTION-TO-ARTIFICIAL-INTELLIGENCE/blob/125a4c619190f5ed4ce1a9fd3595d6e95cee58fa/CODE_OF_CONDUCT.md)
 
+[Credits](https://github.com/Shunlexxi/INTRODUCTION-TO-ARTIFICIAL-INTELLIGENCE/blob/7f0f46b2a7ea9cb44b60d42b0f9d079d37ebbb6e/Credits.md)
