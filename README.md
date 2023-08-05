@@ -12,8 +12,7 @@ Hands-on Session on Azure Cognitive Service
 | **What will you learn**       | *Artificial Intelligence, Azure AI platform, Azure OpenAI service, LLMs fundamentals, Responsible AI*                                        |
 | **What you'll need**          | *[Azure subscription](https://azure.microsoft.com), [Azure OpenAI service access](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu), [GitHub](https://github.com/)* |
 | **Duration**                  | *1h*                                                                |
-| **Microsoft Cloud Topics taught**                  | *Azure Cognitive Services*                                                             
-|
+| **Microsoft Cloud Topics taught**                  | *Azure Cognitive Services*                     |
 | **Slides** | [Powerpoint](slides.pptx) 
                          
 ## Video
@@ -34,21 +33,21 @@ To replicate the demo included in the workshop on your own Azure subscription yo
 
 ## What attendees will learn
 
-In this workshop, attendees will learn about how AI has been infused across the whole Microsoft Cloud tech stack and which technological innovations enabled the recent AI revolution. They'll be introduced to the theory about how a large language model (LLM) works and they'll learn more about Azure AI offering and how to choose the cognitive service that best suits their solution requirements. 
+In this workshop, attendees will learn how AI has been infused across the Microsoft Cloud tech stack and which technological innovations enabled the recent AI revolution. They'll be introduced to Artificial Intelligence, learn more about Azure AI offerings and how to choose the cognitive service that best suits their solution requirements. 
 
 ## Milestone 1: What's AI and usage?
 
-In this segment, we'll start by introducing what Artificial Intelligence is and the innovations that are revolutionizing the AI landscape and their impact on societies.
+In this segment, we'll start by introducing what Artificial Intelligence is and the innovations revolutionizing the AI landscape and their impact on societies.
 
-[Powerpoint](slides.pptx) and the [Video](https://stdntpartners.sharepoint.com/:v:/s/MSPOpen2/EQ9Vok17OVtBpKUZzU8ZKAUBYKz0AmDmFLsHxgtWmQhAcA?e=rhuVXP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19"workshop walk-through"))*
+[Powerpoint](slides.pptx) and the [Video](https://stdntpartners.sharepoint.com/:v:/s/MSPOpen2/EQ9Vok17OVtBpKUZzU8ZKAUBYKz0AmDmFLsHxgtWmQhAcA?e=WWGrpt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Milestone 2: Timeline and History of AI
 
-Next, we'll revealing the Timeline and History of AI.
+Next, we'll reveal the Timeline and History of AI.
 
 ## Milestone 3: Key Workloads
 
-Let's deep dive into Key Workloads (or terms you would hear AI Developers uses often). Such as 
+Let's dive deep into Key Workloads (or terms you'd hear AI Developers use often). Such as:
 1. Machine Learning (ML)
 2. Anomaly detection
 3. Natural Language Processing (NLP)
@@ -59,7 +58,7 @@ Let's deep dive into Key Workloads (or terms you would hear AI Developers uses o
 
 The capability of software to interpret the world visually through cameras, video, and images.
 
-Join the [Challenge](https://learn.microsoft.com/en-us/training/challenges?id=bb49ce83-3aac-4405-8fb1-3eb2335f19f0/?wt.mc_id=studentamb_255353) training module to learn more.
+Join the [Challenge](https://bit.ly/MicrosoftAIChallengeSA) training module to learn more.
 
 ## Milestone 4: OpenAI + Microsoft = Azure OpenAI service ❤️
 
