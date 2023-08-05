@@ -18,7 +18,7 @@ Hands-on Session on Azure Cognitive Service
                          
 ## Video
 
-[![workshop walk-through](./images/promoimage.gif)](https://stdntpartners.sharepoint.com/:v:/s/MSPOpen2/EQ9Vok17OVtBpKUZzU8ZKAUBYKz0AmDmFLsHxgtWmQhAcA?e=rhuVXP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 "workshop walk-through")
+[![workshop walk-through](https://github.com/Shunlexxi/INTRODUCTION-TO-ARTIFICIAL-INTELLIGENCE/blob/54288c2e4117564aed47bdeb6e35542cf416ee41/Microsoft%20Learn%20AI%20Skills%20Challenge%20_%20Introduction%20to%20Artificial%20Intelligence%20(AI).gif)](https://stdntpartners.sharepoint.com/:v:/s/MSPOpen2/EQ9Vok17OVtBpKUZzU8ZKAUBYKz0AmDmFLsHxgtWmQhAcA?e=rhuVXP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 "workshop walk-through")
 > 🎥 Click this image to watch Taiwo guiding you through the material
 
 ## Pre-Learning
